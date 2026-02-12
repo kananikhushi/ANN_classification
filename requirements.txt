@@ -4,6 +4,7 @@ numpy
 scikit-learn
 matplotlib
 tensorboard
-streamlit  
+streamlit>=1.30.0 
 h5py
-python=3.11
+
+
