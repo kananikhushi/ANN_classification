@@ -6,5 +6,6 @@ matplotlib
 tensorboard
 streamlit>=1.30.0 
 h5py
+protobuf==3.20.3
 
 
